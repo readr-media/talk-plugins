@@ -1,0 +1,11 @@
+{
+  "name": "readr-talk-plugin-checkout-comment-count",
+  "version": "1.0.1",
+  "description": "For Readr.tw's talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KAI-CHIH KEITH CHIANG",
+  "license": "ISC"
+}

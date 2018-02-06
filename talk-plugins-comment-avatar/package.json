@@ -1,0 +1,30 @@
+{
+  "name": "readr-talk-plugin-comment-avatar",
+  "version": "1.0.1-alpha.16",
+  "description": "For Readr.tw's talk",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "babel lib --out-dir . --copy-files"
+  },
+  "author": "KAI-CHIH KEITH CHIANG",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.18.2",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-babili": "0.0.11",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-runtime": "^6.22.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.24.1",
+    "image-webpack-loader": "^3.0.0",
+    "json-loader": "^0.5.4",
+    "node-sass": "^3.13.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1"
+  }
+}
